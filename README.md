@@ -21,3 +21,6 @@ Most hack builders lose time deciding what to do next. FocusSprint AI gives imme
 - Plug in LLM API
 - Save sprint history
 - Team mode
+
+Build on Sundai Club on March 8, 2026
+Sundai Project: https://www.sundai.club/projects/bd782564-02f4-4280-ba24-a25f9f343112
