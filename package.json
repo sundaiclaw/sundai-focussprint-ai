@@ -1,0 +1,12 @@
+{
+  "name": "focussprint-ai",
+  "version": "1.0.0",
+  "description": "Sundai hack: AI sprint planning assistant",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
